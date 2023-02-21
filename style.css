@@ -2,4 +2,5 @@ div {
   color: red;
   background-color: aqua;
   box-sizing: border-box;
+  margin: 10px;
 }
